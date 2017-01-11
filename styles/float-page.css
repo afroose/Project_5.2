@@ -10,3 +10,15 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+main img {
+  margin: 20px;
+  width: 300px;
+}
+main .green {
+  margin-left: 0px;
+  float: left;
+}
+main .blue {
+  margin-right: 0px;
+  float: right;
+}
